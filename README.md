@@ -24,3 +24,6 @@ Coming soon, I promise
 ## Networking
 * [Netgear](https://www.netgear.academy/login/index.php) has a "Network Fundamentals for AV Over IP" course for 15 RUs
 * [Shure](https://sai.training.shure.com/catalog/info/id:987) has a Networking for Shure DSP and Audio Interfaces course worth 0.5 RU
+
+## Credits
+Thanks to thedrvthrubandit, ThatLightingGuy, vitas_gray_balianusb, Traktop for suggestions in the Reddit thread. Thanks to freakame for linking this list in the pinned [Jobs and Training post](https://www.reddit.com/r/CommercialAV/comments/10fds75/2023_training_and_jobs_thread_post_jobs_career/) on the [Commercial AV](https://www.reddit.com/r/CommercialAV) subreddit.
