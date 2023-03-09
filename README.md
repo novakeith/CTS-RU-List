@@ -4,7 +4,9 @@ The big list of CTS Renewal Credits, see my reasoning [here](https://www.reddit.
 ## Audio / Digital Audio 
 * [Audinate](https://audinate.talentlms.com/dashboard) offers Dante Level 1, 2, & 3 training online. These are worth 3 RUs each.
 * [QSC](https://training.qsc.com/) offers various Q-SYS trainings on audio, video, and control topics worth anywhere from 0.5 to 8 RUs each.
-* [Biamp](http://training.biamp.com/) offers trainings from 1 to 25 RUs
+* [Biamp](http://training.biamp.com/) offers trainings from 1 to 25 RUs.
+* [Bosch](https://academy.boschsecurity.com/sui/catalog/43171) offers a Dynacord & Electro-Voice series worth 1-6 RUs depending on the course.
+* [Shure](sai.training.shure.com) has a ton of trainings on audio subjects that offer anywhere from 0.25 to 7 RUs
 
 ## Digital Signage
 
