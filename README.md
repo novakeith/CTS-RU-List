@@ -12,8 +12,9 @@ Avixa's website is not entirely clear on which courses are free. In some cases t
 * [Shure](sai.training.shure.com) has a ton of trainings on audio subjects that offer anywhere from 0.25 to 7 RUs
   * [Shure Master Class: Wireless Best Practices & Techniques](https://sai.training.shure.com/catalog/info/id:596) is worth 7 RUs.
 
-## Digital Video
+## Digital Video / Projection / Screens etc.
 * [Datavideo Academy](https://datavideoacademy.com/en/lessons) has lessons on streaming, cameras, and switching. 1 RU each, 6 total classes, for a total of 6 RUs available here.
+* [Planar](https://www.planar.com/training/) has a bunch of different training options ranging from 0.5 to 4 RU, but they are not on-demand. 
 
 ## Digital Signage
 Coming soon, I promise
