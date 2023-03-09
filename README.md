@@ -15,3 +15,6 @@ The big list of CTS Renewal Credits, see my reasoning [here](https://www.reddit.
 
 ## Control Systems 
 * [Atlona](https://atlona.litmos.com/account/login/?) has trainings from 0.5 to 2 RU
+
+## Networking
+* [Netgear](https://www.netgear.academy/login/index.php) has a "Network Fundamentals for AV Over IP" course for 15 RUs
