@@ -1,5 +1,8 @@
 # CTS-RU-List
-The big list of CTS Renewal Credits, see my reasoning [here](https://www.reddit.com/r/CommercialAV/comments/11mxk3d/hit_me_with_your_favorite_cts_renewal_unit/). Please feel free to suggest changes via emailing me, commenting on reddit, or submitting a pull request. All courses in this list are free.
+The big list of Free CTS Renewal Credits. Please feel free to suggest changes via emailing me, commenting on [Reddit](https://www.reddit.com/r/CommercialAV/comments/11mxk3d/hit_me_with_your_favorite_cts_renewal_unit/), or submitting a pull request. All courses in this list are free.
+
+### Why make this list?
+Avixa's website is not entirely clear on which courses are free. In some cases the website is downright unhelpful - on my Reddit post above, I pointed out that the RU renewal list does not link to trainings, which makes some of them hard to find. There is also out of date information on that website. While I cannot promise this list will be maintained with perfect accuracy forever, I did want to provide a quick and easy way to find some extra renewal units in case you are in a time crunch prior to your renewal date.
 
 ## Audio / Digital Audio 
 * [Audinate](https://audinate.talentlms.com/dashboard) offers Dante Level 1, 2, & 3 training online. These are worth 3 RUs each for a total of 9 RUs.
@@ -13,6 +16,7 @@ The big list of CTS Renewal Credits, see my reasoning [here](https://www.reddit.
 * [Datavideo Academy](https://datavideoacademy.com/en/lessons) has lessons on streaming, cameras, and switching. 1 RU each, 6 total classes, for a total of 6 RUs available here.
 
 ## Digital Signage
+Coming soon, I promise
 
 ## Control Systems 
 * [Atlona](https://atlona.litmos.com/account/login/?) has trainings from 0.5 to 2 RU
