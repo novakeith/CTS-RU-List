@@ -11,10 +11,12 @@ Avixa's website is not entirely clear on which courses are free. In some cases t
 * [Bosch](https://academy.boschsecurity.com/sui/catalog/43171) offers a Dynacord & Electro-Voice series worth 1-6 RUs depending on the course.
 * [Shure](sai.training.shure.com) has a ton of trainings on audio subjects that offer anywhere from 0.25 to 7 RUs
   * [Shure Master Class: Wireless Best Practices & Techniques](https://sai.training.shure.com/catalog/info/id:596) is worth 7 RUs.
+* [Legrand](https://go.bluevolt.com/legrand/s/categorydetail/33150/avixa-cts-rus) did a great job organizing their catalog by CTS/CTS-I/CTS-D; they offer 41.75 total RUs, of which I spotted at least 2.5 RUs related to audio.
 
 ## Digital Video / Projection / Screens etc.
 * [Datavideo Academy](https://datavideoacademy.com/en/lessons) has lessons on streaming, cameras, and switching. 1 RU each, 6 total classes, for a total of 6 RUs available here.
 * [Planar](https://www.planar.com/training/) has a bunch of different training options ranging from 0.5 to 4 RU, but they are not on-demand. 
+* [Legrand](https://go.bluevolt.com/legrand/s/categorydetail/33150/avixa-cts-rus) offers 41.75 total RUs in a variety of categories, of which I spotted at least 10.75 RUs directly related to video or projection or HDBaseT.
 
 ## Digital Signage
 Coming soon, I promise
@@ -25,6 +27,7 @@ Coming soon, I promise
 ## Networking
 * [Netgear](https://www.netgear.academy/login/index.php) has a "Network Fundamentals for AV Over IP" course for 15 RUs
 * [Shure](https://sai.training.shure.com/catalog/info/id:987) has a Networking for Shure DSP and Audio Interfaces course worth 0.5 RU
+* [Legrand](https://go.bluevolt.com/legrand/s/categorydetail/33150/avixa-cts-rus) offers 41.75 total RUs in a variety of categories, at least 8.5 RUs are networking related.
 
 ## Credits
 Thanks to thedrvthrubandit, ThatLightingGuy, vitas_gray_balianusb, Traktop for suggestions in the Reddit thread. Thanks to freakame for linking this list in the pinned [Jobs and Training post](https://www.reddit.com/r/CommercialAV/comments/10fds75/2023_training_and_jobs_thread_post_jobs_career/) on the [Commercial AV](https://www.reddit.com/r/CommercialAV) subreddit.
