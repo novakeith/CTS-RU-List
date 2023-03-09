@@ -7,6 +7,7 @@ The big list of CTS Renewal Credits, see my reasoning [here](https://www.reddit.
 * [Biamp](http://training.biamp.com/) offers trainings from 1 to 25 RUs. In all, there are 37.5 RUs worth of training for free available here.
 * [Bosch](https://academy.boschsecurity.com/sui/catalog/43171) offers a Dynacord & Electro-Voice series worth 1-6 RUs depending on the course.
 * [Shure](sai.training.shure.com) has a ton of trainings on audio subjects that offer anywhere from 0.25 to 7 RUs
+  * [Shure Master Class: Wireless Best Practices & Techniques](https://sai.training.shure.com/catalog/info/id:596) is worth 7 RUs.
 
 ## Digital Video
 * [Datavideo Academy](https://datavideoacademy.com/en/lessons) has lessons on streaming, cameras, and switching. 1 RU each, 6 total classes, for a total of 6 RUs available here.
@@ -18,3 +19,4 @@ The big list of CTS Renewal Credits, see my reasoning [here](https://www.reddit.
 
 ## Networking
 * [Netgear](https://www.netgear.academy/login/index.php) has a "Network Fundamentals for AV Over IP" course for 15 RUs
+* [Shure](https://sai.training.shure.com/catalog/info/id:987) has a Networking for Shure DSP and Audio Interfaces course worth 0.5 RU
