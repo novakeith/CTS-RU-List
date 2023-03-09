@@ -31,6 +31,7 @@ Coming soon, I promise
 ## Control Systems 
 * [Atlona](https://atlona.litmos.com/account/login/?) has trainings from 0.5 to 2 RU
 * [Extron](https://www.extron.com/article/continuingeducation_pr?tab=training) trainings cover various topics including control systems and switching. These two together would be worth 2.75 RUs. 
+* [Harman](https://training.harmanpro.com/course/view.php?id=1621) has 51.5 RUs of training available. The bulk of that is the two AMX Programmer (Netlinx) courses worth 20 RUs each (for a total of 40 RUs). There are also some shorter video, networking, and lighting basics. 
 
 ## Networking
 * [Netgear](https://www.netgear.academy/login/index.php) has a "Network Fundamentals for AV Over IP" course for 15 RUs
