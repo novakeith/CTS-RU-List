@@ -40,5 +40,9 @@ Coming soon, I promise
 * [Legrand](https://go.bluevolt.com/legrand/s/categorydetail/33150/avixa-cts-rus) offers 41.75 total RUs in a variety of categories, at least 8.5 RUs are networking related.
 * [Extron](https://www.extron.com/article/continuingeducation_pr?tab=training) trainings cover various topics including networking. There is a networking principles course for 2.5 RUs and a wireless principles course for 1.25 RUs.
 
+## Misc. / Webinars
+* [Avixa Calendar](https://www.avixa.org/cts-ru-calendar) - As much as I dislike their website, they do a good job listing officially sponsored webinars, usually worth 0.5 - 1 RU each. Also check the RU Provider page [here](https://www.avixa.org/cts-ru-providers), for some reason there are other webinars listed that don't show up on the first page.
+* Sign up for [rAVePubs](https://www.ravepubs.com/) and keep an eye out for LAVNCH week events - they give a varying amount of RUs 
+
 ## Credits
 Thanks to thedrvthrubandit, ThatLightingGuy, vitas_gray_balianusb, Traktop for suggestions in the Reddit thread. Thanks to freakame for linking this list in the pinned [Jobs and Training post](https://www.reddit.com/r/CommercialAV/comments/10fds75/2023_training_and_jobs_thread_post_jobs_career/) on the [Commercial AV](https://www.reddit.com/r/CommercialAV) subreddit.
