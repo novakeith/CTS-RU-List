@@ -32,6 +32,7 @@ Coming soon, I promise
 * [Atlona](https://atlona.litmos.com/account/login/?) has trainings from 0.5 to 2 RU
 * [Extron](https://www.extron.com/article/continuingeducation_pr?tab=training) trainings cover various topics including control systems and switching. These two together would be worth 2.75 RUs. 
 * [Harman](https://training.harmanpro.com/course/view.php?id=1621) has 51.5 RUs of training available. The bulk of that is the two AMX Programmer (Netlinx) courses worth 20 RUs each (for a total of 40 RUs). There are also some shorter video, networking, and lighting basics. 
+* [ClearOne](https://www.clearone.com/training-all) has a three trainings available that offer RUs according to Avixa, however, the ClearOne website does not make this very clear (ha, ha)... Advanced Pro Audio Conferencing (1.5 RU), Convergence AV Manager Certification (2 RU), and CONSOLE AI Configuration Software Certification (0.5 RU) 
 
 ## Networking
 * [Netgear](https://www.netgear.academy/login/index.php) has a "Network Fundamentals for AV Over IP" course for 15 RUs
